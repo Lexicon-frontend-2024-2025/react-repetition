@@ -1,0 +1,12 @@
+main.main {
+    padding: 1rem 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+.searchOptions {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,6 @@
+.present {
+    border: 5px solid green;
+}
+.absent {
+    border: 5px solid red;
+}
