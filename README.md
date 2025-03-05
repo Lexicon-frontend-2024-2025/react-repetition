@@ -7,7 +7,7 @@
 7. Gör en eller flera komponenter med props som tar emot datan och returnerar t ex  ett kort eller dylikt med det ni vill visa (gärna med Image från nextjs)
 8. Använda css modules eller tailwind för att göra komponenten lite snygg
 9. Göra dynamisk route (med t ex id) och sen använda params för att använda detta id
-10. Hämta ny data från api med endpoint för ett specifikt id t ex och visa den på den nya sidan
+10. (Hämta ny data från api med endpoint för ett specifikt id t ex och visa den på den nya sidan)
 11. Skapa metadata med generateMetaData()
 12. Hantera fel och göra felmeddelanden för både användare och för utvecklaren
 13. Skapa interaktivitet med knappar och useClient (ex för att lägga till saker i en kundvagn, paginering, sortering osv)
